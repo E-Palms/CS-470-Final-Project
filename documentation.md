@@ -25,3 +25,4 @@ The training function calculates the intercept for the conceptual plot and then 
 The prediction function calculates the intercept of the test dataset, then concatenates it with the set itself, and returns its predictions.
 
 ## Performance
+For performance, I have only been able to get the Naive Bayes algorithm to work properly. My accuracy is 58% with 2 false positives and 919 accurate positive predictions. For K Nearest Neighbors and Logistic Regression I am having problems with the correct indexing and how it interacts with the logic of my code and in turn I haven't been able to gather complete results for assessment.
